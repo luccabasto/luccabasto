@@ -14,7 +14,9 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=040326&color=f2e7dc&line=8C0776&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="start">
+  <img  height=195 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=040326&color=f2e7dc&line=8C0776&point=ff9494&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+  <img width="40%" height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luccabasto&layout=donut&langs_count=8&bg_color=50,50040326,8C0776,071B8C&title_color=EEEEF0&text_color=EEEEF0"/></div>
 
 ### Skills:
 
@@ -30,10 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div align="start">
 
-  <img width="55%" height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=luccabasto&show_icons=true&bg_color=50,8C0776,040326,071B8C&title_color=EEEEF0&text_color=EEEEF0&icon_color=f2e7dc&locale=pt-br&custom_title=Dashboard" />
-  <img width="40%" height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luccabasto&layout=donut&langs_count=8&bg_color=50,50040326,8C0776,071B8C&title_color=EEEEF0&text_color=EEEEF0"/></div>
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
