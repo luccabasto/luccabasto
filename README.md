@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Be%20Wellcome!%20🫡&animation=fadeIn&stroke=040326&fontColor=EEEEF9"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Be%20Wellcome!%20🫡&animation=fadeIn&fontColor=EEEEF9"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C0776&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Basto;I'm+24+years+old;I'm+from+Brazil;I+majoring+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -45,7 +45,7 @@
     Tenho muita vontade de adotar um 🦮!
 
 <div align="center"> 
-<a href="mailto:cmp.1a.lcbeezus@gmail.com">
+<a href="mailto:lcbeezus@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
   
 <a href="https://www.linkedin.com/in/lucas-basto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
