@@ -6,17 +6,23 @@
 
   - 🫡 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1° Período.2 - FIAP/SP). <br>
   - 📚 Aqui será encontrado desde projetos de estudos, quanto projetos acadêmicos de grande escopo. <br>
-  - ⚙️ Estou desenvolvendo minhas habilidades para ser um desenvolvedor e programador <i>(também gosto de pragramar).</i>
-<br>
-<div align="center">
+  - ⚙️ Estou desenvolvendo minhas habilidades para ser um desenvolvedor e programador <i>(também gosto de pragramar).</i><br>
+
+<div align="center" width="100%">
 <a href="mailto:lcbeezus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-basto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-</div>
-<br>
+</div><br>
 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Basto github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luccabasto&layout=donut&langs_count=8&bg_color=50,50040326,8C0776,071B8C&title_color=EEEEF0&text_color=EEEEF0" />
+</div
+  
 <div align="start">
-  <img  height=195 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=040326&color=f2e7dc&line=8C0776&point=ff9494&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)"/>
-  <img width="40%" height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luccabasto&layout=donut&langs_count=8&bg_color=50,50040326,8C0776,071B8C&title_color=EEEEF0&text_color=EEEEF0"/></div>
+  <img width="55%" height="195px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=040326&color=f2e7dc&line=8C0776&point=ff9494&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+  <img width="45%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luccabasto&layout=donut&langs_count=8&bg_color=50,50040326,8C0776,071B8C&title_color=EEEEF0&text_color=EEEEF0"/></div>
 
 ### Skills:
 
