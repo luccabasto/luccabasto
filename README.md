@@ -4,7 +4,7 @@
 
   ## Status 
 
-  - 👨🏻‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1° Período.2 - FIAP/SP). <br>
+  - 🫡 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1° Período.2 - FIAP/SP). <br>
   - 📚 Aqui será encontrado desde projetos de estudos, quanto projetos acadêmicos de grande escopo. <br>
   - ⚙️ Estou desenvolvendo minhas habilidades para ser um desenvolvedor e programador <i>(também gosto de pragramar).</i>
 
