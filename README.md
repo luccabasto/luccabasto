@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Be%20Wellcome!%20🫡&animation=fadeIn&fontColor=EEEEF9"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=255&color=gradient&text=Be%20Wellcome!%20👨🏻‍💻&animation=fadeIn&fontColor=EEEEF9"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C0776&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Basto;I'm+24+years+old;I'm+from+Brazil;I+majoring+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=041159&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Basto;I'm+24+years+old;I'm+from+Brazil;I+majoring+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   ## Current status 
 
-  - 👨🏻‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1° Período.2 - FIAP/SP). <br>
+  - 🫡 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1° Período.2 - FIAP/SP). <br>
   - 📚 Aqui será encontrado desde projetos de estudos, quanto projetos acadêmicos de grande escopo. <br>
   - ⚙️ Estou desenvolvendo minhas habilidades para ser um desenvolvedor e programador <i>(também gosto de pragramar).</i>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=040326&color=f2e7dc&line=8C0776&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills:
 
@@ -50,3 +50,5 @@
   
 <a href="https://www.linkedin.com/in/lucas-basto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=fadeIn&fontColor=EEEEF9&section=footer"/>
