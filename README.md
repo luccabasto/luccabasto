@@ -7,14 +7,20 @@
   - 🫡 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (1° Período.2 - FIAP/SP). <br>
   - 📚 Aqui será encontrado desde projetos de estudos, quanto projetos acadêmicos de grande escopo. <br>
   - ⚙️ Estou desenvolvendo minhas habilidades para ser um desenvolvedor e programador <i>(também gosto de pragramar).</i>
+<br>
+<div align="center">
+<a href="mailto:lcbeezus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-basto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccabasto&bg_color=040326&color=f2e7dc&line=8C0776&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-040326?style=for-the-badge&logo=javascript&labelColor=040326)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-040326?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=040326)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-040326?style=for-the-badge&logo=react&labelColor=040326)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -43,12 +49,6 @@
     Recentemente me despertou uma curiosidade pela área mobile.
 
     Tenho muita vontade de adotar um 🦮!
-
-<div align="center"> 
-<a href="mailto:lcbeezus@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
-  
-<a href="https://www.linkedin.com/in/lucas-basto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
+    
+ 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=fadeIn&fontColor=EEEEF9&section=footer"/>
