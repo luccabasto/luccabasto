@@ -49,7 +49,7 @@
 
     Recentemente me despertou uma curiosidade pela área mobile.
 
-    Tenho muita vontade de adotar um 🦮!
+    Tenho muita vontade de adotar um cachorro 🐕!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=fadeIn&fontColor=EEEEF9&section=footer"/>
  
