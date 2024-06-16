@@ -32,8 +32,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <div align="start">
-
-  <img width="55%" height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=luccabasto&show_icons=true&bg_color=50,8C0776,040326,071B8C&title_color=EEEEF0&text_color=EEEEF0&icon_color=f2e7dc&locale=pt-br&custom_title=Dashboard" />
   <img width="40%" height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luccabasto&layout=donut&langs_count=8&bg_color=50,50040326,8C0776,071B8C&title_color=EEEEF0&text_color=EEEEF0"/></div>
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
